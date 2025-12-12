@@ -58,5 +58,4 @@ Each action corresponds to a traffic signal phase:
 
 ---
 
-## 📂 Project Structure (example)
 
